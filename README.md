@@ -5,7 +5,7 @@ Welcome to the **CloudSCAPE** session overview! This document outlines the key i
 ---
 ## 📌 Session Overview
 
-> **📸 Speaker Spotlight: Asmita Khuspe (She/Her)**  
+> **📸 Speaker Spotlight: Asmita Khuspe**  
 ><img width="500px" height="500px" align="center" alt="image" src="https://github.com/user-attachments/assets/d0fb56e6-daca-484a-9a0a-d7246d083800" />
 
 > *Platform Engineer @NCS | Road to Google Developer Expert | AWS Community Builder | Technical Storyteller* 
