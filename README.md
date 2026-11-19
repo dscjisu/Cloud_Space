@@ -3,16 +3,18 @@
 Welcome to the **CloudSCAPE** session overview! This document outlines the key insights, technical topics, and career advice shared by **Asmita Khuspe** (Platform Engineer) during the live session designed for students exploring modern cloud infrastructure beyond the classroom.
 
 ---
-
 ## 📌 Session Overview
 
+> **📸 Speaker Spotlight: Asmita Khuspe (She/Her)**  
+><img width="500px" height="500px" align="center" alt="image" src="https://github.com/user-attachments/assets/d0fb56e6-daca-484a-9a0a-d7246d083800" />
+
+> *Platform Engineer @NCS | Road to Google Developer Expert | AWS Community Builder | Technical Storyteller* 
+
 - **Event Title:** CloudSCAPE
-- **Speaker:** Asmita Khuspe (Platform Engineer)
+- **Speaker:** Asmita Khuspe
 - **Target Audience:** Students and beginners interested in modern cloud infrastructure and practical GCP concepts.
 - **Focus:** Demystifying cloud computing, understanding Google Cloud Platform architectures, and setting up a clear career roadmap in cloud engineering.
-
 ---
-
 ## ⏱️ Table of Contents & Timeline
 
 | Topic | Timestamp Link | Summary |
@@ -82,3 +84,12 @@ Regardless of specialization, students should build strong competence in:
 - **LinkedIn:** Actively document what you learn and share projects publicly.
 - **Open Source:** Contribute to open-source tools and infrastructure repositories.
 - **Practical Problem Solving:** Build real-world portfolio projects rather than following generic tutorials to stand out as a fresher.
+---
+## 🖼️ Event Highlights
+
+<div align="center">
+  <img width="1758" align="center" height="988" alt="image" src="https://github.com/user-attachments/assets/9b0c6d6d-9ff9-4f6d-9ddc-3378e8c09eca" />
+
+  <p><i>Left: Asmita Khuspe breaking down data storage options, comparing Cloud Storage, Cloud SQL, and Firestore based on data shape[cite: 1]. Right: Exploring practical, hands-on learning resources and tutorials on the Google Codelabs platform[cite: 2].</i></p>
+</div>
+</div>
