@@ -92,6 +92,6 @@ Regardless of specialization, students should build strong competence in:
 <div align="center">
   <img width="1758" align="center" height="988" alt="image" src="https://github.com/user-attachments/assets/9b0c6d6d-9ff9-4f6d-9ddc-3378e8c09eca" />
 
-  <p><i>Left: Asmita Khuspe breaking down data storage options, comparing Cloud Storage, Cloud SQL, and Firestore based on data shape[cite: 1]. Right: Exploring practical, hands-on learning resources and tutorials on the Google Codelabs platform[cite: 2].</i></p>
+  <p><i>Left: Asmita Khuspe breaking down data storage options, comparing Cloud Storage, Cloud SQL, and Firestore based on data shape.</i></p>
 </div>
 </div>
