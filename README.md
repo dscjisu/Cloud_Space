@@ -3,6 +3,12 @@
 Welcome to the **CloudSCAPE** session overview! This document outlines the key insights, technical topics, and career advice shared by **Asmita Khuspe** (Platform Engineer) during the live session designed for students exploring modern cloud infrastructure beyond the classroom.
 
 ---
+## 🤝 Organizers & Collaborators
+
+This CloudSCAPE session was proudly brought to life through a community collaboration:
+- **Hosted by:** Google Developer Groups (GDG) on Campus - IIITK Kalyani
+- **In Collaboration with:** Google Developer Groups (GDG) on Campus - JIS University
+---
 ## 📌 Session Overview
 
 > **📸 Speaker Spotlight: Asmita Khuspe**  
