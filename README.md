@@ -11,7 +11,8 @@ Welcome to the **CloudSCAPE** session overview! This document outlines the key i
 > *Platform Engineer @NCS | Road to Google Developer Expert | AWS Community Builder | Technical Storyteller* 
 
 - **Event Title:** CloudSCAPE
-- **Speaker:** Asmita Khuspe
+- **Speaker:** Asmita Khuspe 
+- **LinkedIn:** https://www.linkedin.com/in/asmita-khuspe/ 
 - **Target Audience:** Students and beginners interested in modern cloud infrastructure and practical GCP concepts.
 - **Focus:** Demystifying cloud computing, understanding Google Cloud Platform architectures, and setting up a clear career roadmap in cloud engineering.
 ---
